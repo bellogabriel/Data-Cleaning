@@ -19,7 +19,7 @@ This repository focuses on cleaning dirty datasets. I worked on several dirty da
 ---
 
 ## 🧾	Data Source
-- ![Kaggle Logo](https://www.kaggle.com/static/images/site-logo.svg)
+- ![Kaggle.com](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg)
 
 ---
 
